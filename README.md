@@ -66,6 +66,8 @@ The objective of this project is to build a predictive model using Multiple Line
 - Numpy - version 1.26.4
 - Matplotlib - version 3.7.1
 - Seaborn - version 0.13.2
+- Sklearn - version 1.5.1
+- Statsmodels - version 0.14.2
 
 ## Acknowledgements
 
