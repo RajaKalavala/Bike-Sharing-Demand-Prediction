@@ -6,9 +6,10 @@
 
 - [General Info](#general-information)
 - [Objective](#objective)
+- [Contents](#contents)
 - [Technologies Used](#technologies-used)
-- [Conclusions](#conclusions)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 ## General Information
 
@@ -71,10 +72,12 @@ The objective of this project is to build a predictive model using Multiple Line
 
 ## Acknowledgements
 
-- This project was inspired by IIITB and Upgrad's Lecture on EDA
+- This project was inspired by IIITB and Upgrad's Lecture on Linear Regression.
 - References:
-  - [Seaborn Documentation](https://seaborn.pydata.org/)
+  - [Scikit-learn Documentation](https://scikit-learn.org/)
+  - [Statsmodels Documentation](https://www.statsmodels.org/stable/)
+  - [GeeksForGeeks](https://www.statsmodels.org/)
 
 ## Contact
 
-Created by [Raja](https://github.com/RajaKalavala)
+Created by [Raja](https://www.linkedin.com/in/rajakalavala/)
